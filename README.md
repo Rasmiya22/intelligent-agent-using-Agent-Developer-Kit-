@@ -8,8 +8,8 @@ This repository contains a conversational agent built using the **Google Agent D
 - ✅ Validates HSN codes against a dataset (Excel file)
 - 📄 Provides relevant description for valid codes
 - ❌ Returns error message for invalid codes
-- 🧠 Built using ADK and Gemini 2.0 Flash model
-- 🌐 Supports local deployment for testing
+- 🧠 Built using ADK 
+
 
 ## 🗂️ Project Structure
 
