@@ -24,10 +24,7 @@ intelligent-agent-using-Agent-Developer-Kit-/
 │       └── hsn_codes.xlsx         # Excel dataset of HSN codes and descriptions
 │
 ├── .gitignore                     # Ignores env/cache/pyc
-├── output/
-│   ├── screenshots/               # Output screenshots of interface and responses
-│   └── demo_video/                # Demo explanation video (link or file)
-│
+
 └── README.md                      # You're here!
 ```
 
