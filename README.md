@@ -68,17 +68,7 @@ intelligent-agent-using-Agent-Developer-Kit-/
    Open `http://localhost:8000` and try:
    > Validate HSN code 1234
 
-## 📸 Output Screenshots
 
-See inside the `output/screenshots/` folder for:
-
-- Agent running locally
-- Sample valid and invalid HSN validation responses
-- Excel file preview
-
-## 🎥 Explanation Video
-
-See the video in `output/demo_video/` or watch it [here](#) (Insert Google Drive or GitHub link)
 
 ## 📄 Sample Excel
 
